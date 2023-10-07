@@ -13,7 +13,7 @@ import 'antd/dist/reset.css'
 const { Option } = Select;
 
 export async function postSurveys(args: any) {
-  const res = await fetch(window.location.href.indexOf("localhost") !== -1 ? "http://localhost:8000/surveys/" : "https://caniche-surveys.pythonanywhere.com/surveys/", {
+  const res = await fetch(window.location.href.indexOf("localhost") !== -1 ? "http://localhost:8000/surveys/" : "https://canichesurveys.pythonanywhere.com/surveys/", {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
