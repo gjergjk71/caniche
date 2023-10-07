@@ -65,7 +65,11 @@ export default function Home() {
   const [ success, setSuccess ] = useState(false);
   const onFinish: any = async (values: any) => {
     console.log('Success:', values);
-    const res = await postSurveys(values);
+    try {
+      const res = await postSurveys(values);
+    } catch (err) {
+      alert("Some unknown error occurred!")
+    }
     setSuccess(res.status >= 200 && res.status < 300)
     alert("Survey submitted successfully, we will reach out via social media!")
   };
