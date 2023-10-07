@@ -68,10 +68,11 @@ export default function Home() {
     let res;
     try {
       res = await postSurveys(values);
+      setSuccess(true)
     } catch (err) {
       alert("Some unknown error occurred!")
+      setSuccess(false);
     }
-    setSuccess(res.status >= 200 && res.status < 300)
     alert("Survey submitted successfully, we will reach out via social media!")
   };
   
