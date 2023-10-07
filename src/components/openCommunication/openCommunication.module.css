@@ -1,0 +1,40 @@
+.Section2Content {
+    width: 501px; height: 328px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex;
+    margin-left: 33vw;
+
+}
+.Frame15288 {
+    align-self: stretch; height: 216px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex
+}
+.AfterCommunicatingDetailsMakeYourInformedDecision {
+    align-self: stretch; color: black; font-size: 40px; font-family: Newsreader; font-weight: 400; line-height: 48px; word-wrap: break-word
+}
+.Subheadline {
+    align-self: stretch; color: #707070; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 32px; word-wrap: break-word
+}
+.Button {
+    padding-left: 32px; padding-right: 32px; padding-top: 19px; padding-bottom: 19px; background: #426B1F; border-radius: 8px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex;
+    padding-bottom: 3.4vh !important;
+}
+.ContactUs {
+    color: white; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 26px; word-wrap: break-word
+}
+.BellPeppers {
+    width: 608px; height: 405px; border-radius: 2px
+}
+.Row {
+    display: flex;
+    margin-top: 17rem;
+}
+.RowFirstChild {
+    margin-left: 6vw;
+}
+.Mobile > div {
+    padding: 15px;
+}
+.Mobile > img {
+    padding: 15px;
+}
+.Mobile > input {
+    padding: 15px;
+}

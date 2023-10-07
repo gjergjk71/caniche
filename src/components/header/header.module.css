@@ -1,0 +1,33 @@
+.Header {
+  width: 1440px; height: 112px; position: relative;
+  margin: 0 auto;
+  }
+
+  .Header > div > a {
+    text-decoration: none;
+  }
+
+.Cniche {
+  left: 96px; top: 41px; position: absolute; color: #426B1F; font-size: 32px; font-family: Newsreader; font-weight: 500; line-height: 32px; word-wrap: break-word
+}
+.NavLinks {
+  left: 739px; top: 32px; position: absolute; justify-content: flex-start; align-items: center; gap: 48px; display: inline-flex
+}
+.Shop {
+  text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 20.80px; word-wrap: break-word
+}
+.Newsstand {
+  text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 20.80px; word-wrap: break-word
+}
+.WhoWeAre {
+  text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 20.80px; word-wrap: break-word
+}
+.MyProfile {
+  text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 20.80px; word-wrap: break-word
+}
+.CartButton {
+  padding-left: 23px; padding-right: 23px; padding-top: 13.50px; padding-bottom: 13.50px; background: #01AAC3; border-radius: 8px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 10px; display: flex
+}
+.Basket0 {
+  text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 20.80px; word-wrap: break-word
+}

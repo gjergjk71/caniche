@@ -1,0 +1,98 @@
+.Footer2 {
+    width: 100%; height: 288px; position: relative;
+    margin-top: 6vh;margin-left: -7rem;
+}
+.Divider {
+    width: 1248px; height: 1px; background: #DDDDDD;
+    margin: 0 auto;
+    width: 98vw;
+}
+.LogoAndAddress {
+    flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex;
+    margin-left: 17vw;
+}
+.LogoWordmark {
+    width: 36px; height: 35px; position: relative
+}
+.ProduceLaneGardentownCa51512 {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.LinkColumn {
+    display: inline !important;
+    height: 95px;
+    margin-left: 58vh;
+}
+.Row {
+    width: 80%;
+    margin-left: 17vw;
+}
+.Row > div {
+  float: left;
+  width: 25%;
+}
+.InnerRow {
+    display: flex;
+    margin-top: 6vh !important;
+    margin: 0 auto;
+    width: 100%;
+}
+.InnerRow > div {}
+
+/* Clear floats after the columns */
+.Row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.Shop {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.WhoWeAre {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.Newsstand {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.MyProfile {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.MyBasket {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.MyPreferences {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.ContactUs {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.OurValues {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.Accessibility {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.PrivacyPolicy {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.SiteMap {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.TermsAndConditions {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20.80px; word-wrap: break-word
+}
+.CnicheLlc {
+    color: black; font-size: 40px; font-family: Newsreader; font-style: italic; font-weight: 400; line-height: 48px; word-wrap: break-word
+}
+.Mobile > div {
+    padding: 15px;
+}
+.Mobile > div > div {
+    padding: 15px;
+}
+.Mobile > img {
+    padding: 15px;
+}
+.Mobile > input {
+    padding: 15px;
+}

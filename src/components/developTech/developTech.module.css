@@ -1,0 +1,40 @@
+.BellPeppers {
+    width: 608px; height: 405px; border-radius: 2px;
+    
+}
+.Section2Content {
+    width: 501px; height: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex;
+    width: 20%;
+    margin: auto;
+    margin-right: 10vw;
+
+}
+.Frame15288 {
+    align-self: stretch; height: 312px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex
+}
+.WeReDevelopersTechSupportersAndConsumersOfOurOwnProducts {
+    align-self: stretch; color: black; font-size: 40px; font-family: Newsreader; font-weight: 400; line-height: 48px; word-wrap: break-word
+}
+.Subheadline {
+    align-self: stretch; color: #707070; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 32px; word-wrap: break-word
+}
+.Button {
+    padding-left: 32px; padding-right: 32px; padding-top: 19px; padding-bottom: 3.4vh; background: #426B1F; border-radius: 8px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex 
+}
+.ReadOurStory {
+    color: white; font-size: 20px; font-family: Inter; font-weight: 600; line-height: 26px; word-wrap: break-word
+}
+.Row {
+    display: flex;
+    margin-top: 7vh;
+}
+.RowFirstChild {
+    width: 52%;
+    margin: 0 auto;
+}
+.Mobile > div {
+    padding: 15px;
+}
+.Mobile > img {
+    padding: 15px;
+}

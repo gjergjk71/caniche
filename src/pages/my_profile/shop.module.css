@@ -1,0 +1,25 @@
+.WebMobile {
+
+}
+@media only screen and (max-width: 1400px)  {
+    .DivWebMobile > div:first-child {
+        margin-top: 21vh;
+        margin-right: initial !important;
+        position:  initial!important;
+        top:  initial!important;
+        /* /* transform: translateY(-50%); */
+    }
+    .DivWebMobile > div:nth-child(2) {
+        margin-left: initial !important;
+        margin-top: initial !important;
+    }
+    .DivWebMobile {
+        position: initial !important;
+        display: initial !important;
+    }
+}
+@media only screen and (max-width: 645)  {
+    .DivWebMobile  {
+        zoom: 90%;
+    }
+}

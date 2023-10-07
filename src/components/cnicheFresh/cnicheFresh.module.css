@@ -1,0 +1,79 @@
+
+.Row {
+    margin-top: 3zvh;
+}
+.Frame15195 {
+    width: 395px; height: 96px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex;
+    margin: 0 auto;
+    margin-left: 6vw !important;
+    margin-top: 4vh !important;
+}
+.CnicheFresh {
+    color: black; font-size: 40px; font-family: Newsreader; font-style: italic; font-weight: 400; line-height: 48px; word-wrap: break-word
+}
+.EmailNewsletter {
+    color: black; font-size: 40px; font-family: Newsreader; font-weight: 400; line-height: 48px; word-wrap: break-word
+}
+.CommsPrefsAndOptIn {
+    width: 501px; height: 319px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex;
+    margin-left: 33vw;
+    float: right;
+    margin-right: 8vw;
+    margin-bottom: 1rem;
+}
+.FormInput {
+    align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; border-radius: 8px; border: 1px black solid; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex
+}
+.EnterYourEmailAddress {
+    color: #707070; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 26px; word-wrap: break-word
+}
+.NotificaionPreferences {
+    align-self: stretch; height: 141px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex
+}
+.EmailMeAbout {
+    color: black; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 19.20px; word-wrap: break-word
+}
+.Frame15119 {
+    flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex
+}
+.RadioSelection {
+    justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex
+}
+.Ellipse211 {
+    width: 20px; height: 20px; border-radius: 9999px; border: 1px black solid
+}
+.SalesAndPromotions {
+    color: black; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 26px; word-wrap: break-word
+}
+.RadioSelection {
+    justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex
+}
+.Ellipse211 {
+    width: 20px; height: 20px; border-radius: 9999px; border: 1px black solid
+}
+.FreshStories {
+    color: black; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 26px; word-wrap: break-word
+}
+.RadioSelection {
+    justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex
+}
+.Ellipse211 {
+    width: 20px; height: 20px; border-radius: 9999px; border: 1px black solid
+    ;
+    background-color:#426B1F !important;
+}
+.ArticlesAndBlogPosts {
+    color: black; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 26px; word-wrap: break-word
+}
+.CartButton {
+    padding-left: 23px; padding-right: 23px; padding-top: 13.50px; padding-bottom: 13.50px; background: #426B1F; border-radius: 8px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex
+}
+.SignMeUp {
+    text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 20.80px; word-wrap: break-word
+}
+.Mobile > div {
+    padding: 15px;
+}
+.Mobile > img {
+    padding: 15px;
+}
