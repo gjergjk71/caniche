@@ -104,7 +104,7 @@ export default function Home() {
               onFail={(error) => {
                 console.log('Login Failed!', error);
               }}
-              className='ant-btn css-dev-only-do-not-override-pr0fja ant-btn-default'
+              className='ant-btn css-pr0fja ant-btn-default'
               style={{ width: "100%" }}
               onProfileSuccess={(response) => {
                 console.log('Get Profile Success!', response);
