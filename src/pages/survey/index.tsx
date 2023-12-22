@@ -9,6 +9,7 @@ import FacebookLogin from '@greatsumini/react-facebook-login';
 import { NextResponse } from 'next/server'
 import { useState } from 'react';
 import 'antd/dist/reset.css'
+import React from "react";
 
 const { Option } = Select;
 
